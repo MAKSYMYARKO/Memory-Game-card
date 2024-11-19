@@ -60,7 +60,7 @@ function checkForWin() {
         setTimeout(() => {
             winMessage.style.display = 'none';
             createBoard();
-        }, 2000);
+        }, 5000);
     }
 }
 
